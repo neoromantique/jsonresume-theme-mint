@@ -1,4 +1,4 @@
-# jsonresume-theme-onepage
+# jsonresume-theme-mint 
 
 A compact theme for JSON Resume, designed for printing. 
 
@@ -6,14 +6,14 @@ Tries to fit as much information as possible onto a single page without making s
 
 ## Example
 
-http://themes.jsonresume.org/theme/onepage
+not-available
 
 ## Running
 
 ```
 sudo npm install -g resume-cli
-git clone https://github.com/ainsleyc/jsonresume-theme-onepage.git
-cd jsonresume-theme-onepage
+git clone https://github.com/neoromantique/jsonresume-theme-mint.git
+cd jsonresume-theme-mint
 resume serve
 ```
 You can print directly from the served html.
